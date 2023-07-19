@@ -2,6 +2,8 @@
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
         <page name='testing'/>
+        <page name='P-1333'/>
+        <page name='P-1333-extra'/>
         <page name='P-1334'/>
         <page name='P-1335'/>
         <page name='P-1336'/>

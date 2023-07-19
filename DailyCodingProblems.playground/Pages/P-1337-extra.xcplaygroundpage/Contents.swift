@@ -41,7 +41,8 @@ struct PrimeGenerator: IteratorProtocol {
 }
 
 var primeGenerator = PrimeGenerator()
-for _ in 1...10 {
+
+for _ in 1...1000 {
     if let nextPrime = primeGenerator.next() {
         print(nextPrime)
     }
